@@ -7,3 +7,5 @@ def my_find(collection)
     i += 1
   end
 end
+
+collection = (0..100).to_a
